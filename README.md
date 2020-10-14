@@ -1,3 +1,3 @@
 # Projeto da Matéria Linguagem de Script 
 
-## https://ismaelpedro.github.io/projetoIfpbLS/
+## https://ismaelpedro.github.io/projetoLS/
